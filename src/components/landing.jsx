@@ -91,7 +91,7 @@ function LandingHome({ suspenseResolved }) {
         </div>
         <div className='h-80 md:w-[32rem] w-full  top-[43%]  px-5 md:px-0 md:right-10 right-0  md:py-10 absolute   '>
           <h1 className=' text-2xl md:text-4xl text-white md:tracking-wide  avenger md:leading-12 '>
-            Ai verse is SVPCET's Airtificial inteligence Department annual tech event with competitions, workshops, coding, and gaming, fostering innovation and collaboration.
+            Ai verse is SVPCET's Artificial Inteligence Department annual tech event with competitions, workshops, coding, and gaming, fostering innovation and collaboration.
           </h1>
         </div>
       </div>
