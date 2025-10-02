@@ -123,7 +123,7 @@ export default function App() {
              
             />}>
             <Model setSuspenseResolved={setSuspenseResolved} />
-            <SetBackground imageUrl="/Gemini_Generated_Image_21vhpg21vhpg21vh.png" ImageLoaded={setImageLoaded} />
+            <SetBackground imageUrl="/Background.png" ImageLoaded={setImageLoaded} />
             <Environment
               files="https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kiara_1_dawn_1k.hdr"
 
